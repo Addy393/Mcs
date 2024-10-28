@@ -1,0 +1,11 @@
+Pr(dBm) = Pr(d0) + 20log(do/d) 1A
+n = (Pr(d0)-(Pr(d))/10*log10(d/do) 1B
+1c 
+use this formula PL(d)=10*n*log10(d)+7.8−1.8log10(htx)−18log10(hrx)+20log10(fc)
+and Pl(d) = Pt - Pr(d)
+
+1D
+same formula as 1C just fc is given and Hrx is not given 
+
+1E
+same as 1c just u have to find Htx transmitting antenna height instead of hrx
